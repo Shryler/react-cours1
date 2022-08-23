@@ -1,6 +1,8 @@
+import "./styles/main.css";
+
 function Main() {
     return (
-        <main>Main</main>
+        <main className="bg-danger container vh-100">Main</main>
     );
 }
 

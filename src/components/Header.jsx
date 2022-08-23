@@ -1,6 +1,8 @@
+import "./styles/header.css";
+
 function Header() {
     return (
-        <header>Header</header>
+        <header className="container">Header</header>
     );
 }
 
